@@ -29,7 +29,7 @@ Durante o desenvolvimento do projeto, foi implementada uma lógica para o botão
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/MarinhoFelipe1811/amigo-secreto.git
+   git clone https://github.com/MarinhoFelipe1811/AmigoSecreto.git
 Navegue até o diretório do projeto
 
 Abra o arquivo index.html no seu navegador de preferência.
